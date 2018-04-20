@@ -35,6 +35,17 @@ CGFloat const  BtnFont =  17; //滑块字体大小
 
 @implementation SegamentSliderViewMenuAutoView
 
+
+
+
+
+
+
+
+
+
+
+/////ceshishissikhsishishsihsi
 -(NSArray *)CtrlArr{
     if (!_CtrlArr) {
         _CtrlArr=[NSMutableArray new];
