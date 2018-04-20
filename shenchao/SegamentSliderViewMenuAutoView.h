@@ -7,6 +7,17 @@
 // 滑动菜单 。同上 。适配宽度和文字有关系
 
 
+
+
+
+
+
+
+
+
+
+
+
 #import <UIKit/UIKit.h>
 
 @interface SegamentSliderViewMenuAutoView : UIViewController
